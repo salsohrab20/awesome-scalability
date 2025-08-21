@@ -3,7 +3,7 @@
 An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 
 #### If your system goes slow
-> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.    []
+> Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.   
 
 #### If your system goes down
 > "Even if you lose all one day, you can build all over again if you retain your calm!" - Thuan Pham, former CTO of Uber. So, keep calm and mind the [availability](#availability) and [stability](#stability) matters! 
@@ -33,8 +33,11 @@ An updated and organized reading list for illustrating the patterns of scalable,
 - [Talk](#talk)
 - [Book](#book)
 
+- [ ] Task not completed
+- [x] Task completed
+
 ## Principle
-* [Lessons from Giant-Scale Services - Eric Brewer, UC Berkeley & Google](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)
+* [Lessons from Giant-Scale Services - Eric Brewer, UC Berkeley & Google](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)     - [ ]
 * [Designs, Lessons and Advice from Building Large Distributed Systems - Jeff Dean, Google](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [How to Design a Good API & Why it Matters - Joshua Bloch, CMU & Google](https://www.infoq.com/presentations/effective-api-design)
 * [On Efficiency, Reliability, Scaling - James Hamilton, VP at AWS](http://mvdirona.com/jrh/work/)
